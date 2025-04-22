@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wdth,wght@0,75..100,100..900;1,75..100,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.colorcustom {
+    background-color: #28A745;
+}
+
+.card-body {
+    font-family: "Roboto", sans-serif;
+}
+
+.promocion {
+    font-size: 20px;
+    font-weight: 300;
+    color: #212529;
+}
+
+.codigo {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.direccion {
+    font-size: 13px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.precio_real {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
+
+.precio_dcto {
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+}
+
+.recibe_text {
+    font-size: 21px;
+    font-weight: 500;
+    color: white;
+}
+
+.derechos {
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+}
